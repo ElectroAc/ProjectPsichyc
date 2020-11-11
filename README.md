@@ -1,2 +1,3 @@
 # ProjectPsichyc
-A psichyc chatbot
+
+A psichyc chatbot to help everyone!
